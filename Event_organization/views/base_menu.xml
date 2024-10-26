@@ -1,0 +1,17 @@
+<odoo>
+    <menuitem 
+        id='event_organization_root_menu'
+        name='Event Organization'
+    />
+    
+    <menuitem 
+        id='event_form_menu'
+        name='Event'
+        parent='event_organization_root_menu'
+    />
+     <menuitem 
+        id='classroom_menu'
+        name='Classrooms'
+        parent='event_organization_root_menu'
+    />
+</odoo>

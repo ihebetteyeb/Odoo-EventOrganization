@@ -1,0 +1,8 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_event_form,access_event_form,model_event_form_organization,,1,1,1,1
+access_classroom,access_classroom,model_classroom,Event_organization.classroom_manager_group,1,1,1,1
+access_change_state,access_change_state,model_change_state,,1,1,1,1
+
+
+
+

@@ -1,0 +1,5 @@
+<odoo>
+<record id='classroom_manager_group' model='res.groups'>
+<field  name='name' >Classroom Manager</field>
+</record>
+</odoo>
